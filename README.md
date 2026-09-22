@@ -1,8 +1,7 @@
 # AutoDashboard
 
 A general-purpose exploratory dashboard for tabular data, built with
-[Observable Framework](https://observablehq.com/framework/). The design is adapted from
-[pydre-dashboard](https://github.com/OSUDSL/pydre-dashboard) but has no dataset-specific columns.
+[Observable Framework](https://observablehq.com/framework/).
 
 ## Features
 
